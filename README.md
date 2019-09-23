@@ -1,4 +1,4 @@
-# MEAN SHOP | A MEAN stack based Ecommerce backend and Frontend Project
+# Task
 
 
 ## Description
