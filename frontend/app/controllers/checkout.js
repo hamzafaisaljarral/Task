@@ -73,7 +73,7 @@ module.exports.controller = function(app){
       city : address.city,
       state : address.state,
       country : address.country,
-      pinCode : address.pinCode,
+      typeofcustomer : address.typeofcustomer,
       landMark : address.landMark
 
     });

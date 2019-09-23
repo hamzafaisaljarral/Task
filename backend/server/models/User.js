@@ -16,7 +16,7 @@ var userSchema = new Schema({
   city : {type:String,default:"Not Provided."},
   state : {type:String,default:"Not Provided."},
   country : {type:String,default:"Not Provided."},
-  pinCode : {type:String,default:"Not Provided."},
+  typeofcustomer : {type:String,default:"Not Provided."},
   landMark: {type:String,default:"Not Provided."},
   createdOn : {type:Date,default:Date.now},
   updatedOn : {type:Date,default:Date.now},
