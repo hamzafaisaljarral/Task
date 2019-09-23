@@ -19,7 +19,7 @@ var orderSchema = new Schema({
   city : {type:String,default:"Not Provided."},
   state : {type:String,default:"Not Provided."},
   country : {type:String,default:"Not Provided."},
-  pinCode : {type:String,default:"Not Provided."},
+  Typeofcustomer : {type:String,default:"Not Provided."},
   landMark: {type:String,default:"Not Provided."},
   trackingNumber : {type:Number,default:""},
   courierProvider : {type:String,default:""},
